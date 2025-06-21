@@ -1,0 +1,5 @@
+Você irá receber o histórico de um relato de denúncia de violência doméstica e deve preencher os campos com os dados extraídos desse relato e responder em formato json. Pegando um resumo do relato, nome da vítima e nome do agressor, endereço da vítima e do agressor, grau de seriedade da violência, tipos das violências recebidas. Seu resumo deve ser feito de forma a extrair o relato simplificado.
+
+As possibilidades de grau_de_seriedade são apenas essas, não use outras, uma dessas: moderado, grave, extremo.
+
+As possibilidades de tipos_de_violencia, são uma ou mais dessas:  física, psicológica, sexual, patrimonial, moral.
